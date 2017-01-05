@@ -21,6 +21,7 @@ env:
   global:
     - secure: "UyygtUDLvV2+14mEG6Pddo/deLazXc2Hit63KlbZ26Pi8cxbr1FeDUBi4WFVWlFh01smKe5mO+kk/4k06aSdolcTC59QUsltRrsINmsxj/BS66L7JbWP8/yPQP1drE6CH5oh6t1JAchuK19bLUOK9Tycn0J2VufW69ckw3D+rqU="
     - secure: "YKHqxWKFfrhJoQ5ptfgnByGNdcRLcQVpI22EGjU5WWzQrUw3Frq8+zsRmSNjzF6qEi5oXfxzxUaOItzY8W8bkWUVHCaVGalfyK+C4ad55n8ZpP2cZkOJtenocPhhUTRFwOuAZsUYCI+hXroMyoBUsnu4AJqpkYVimlNblOdcWoA="
+    - secure: "IV/3PBCZ0bVYqLdDUlvqjbXU0a+Vk/seNH57i9X8axENoS0166VXwjwTN8AlSWhKZQVadxG3J6T7V6U1G366gOOmlqtGT7AVNpvn7h4ShE0rE05sdo5GoCPGbs+5YB5qNchA7TUHrXC9pvDwmSz/pt/nA/WLiN1MJ4L8vtxLgKg=" # g
   matrix:
     - TEST_DIR=agent
     - TEST_DIR=cli
